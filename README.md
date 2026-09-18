@@ -1,2 +1,8 @@
-# DogCat_Classification
-A custom CNN-based deep learning model built from scratch using PyTorch to classify images as either cats or dogs, trained with an NVIDIA RTX 3050 GPU using CUDA.
+🐶🐱 Dog vs Cat Image Classification
+
+A deep learning project that classifies images into two categories:
+**Dog** or **Cat** using a custom Convolutional Neural Network (CNN)
+built from scratch with PyTorch.
+
+The model was trained using an NVIDIA GeForce RTX 3050 6GB Laptop GPU
+with CUDA acceleration.
